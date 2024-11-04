@@ -1,1 +1,30 @@
-[]
+[
+  {
+    "id": "016839b8-f312-418e-b9a6-fefd43fa5c88",
+    "name": "Neil Keeling",
+    "phone": "959-703-4686",
+    "email": "Kameron.Hilpert88@hotmail.com",
+    "job": "International Applications Technician"
+  },
+  {
+    "id": "601e4169-e7a7-4a32-87b9-d3160bbfaa5a",
+    "name": "Darlene Upton",
+    "phone": "325.264.7913 x3769",
+    "email": "Caleigh78@yahoo.com",
+    "job": "Legacy Configuration Administrator"
+  },
+  {
+    "id": "97404d02-7a4e-4a68-8506-627eb71c3d75",
+    "name": "Saul Howell I",
+    "phone": "1-441-293-9699",
+    "email": "Jaylan_Johns@yahoo.com",
+    "job": "National Metrics Facilitator"
+  },
+  {
+    "id": "68f98b98-1d6f-4af0-bc83-80b57b4d80ee",
+    "name": "Margaret Beier",
+    "phone": "1-669-476-9861 x90227",
+    "email": "Lorna60@gmail.com",
+    "job": "Global Web Coordinator"
+  }
+]
